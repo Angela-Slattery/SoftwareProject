@@ -4,12 +4,9 @@
 
 <nav class="bg-gray-800 p-4 text-white">
 	<div class="mx-auto flex max-w-7xl items-center justify-between">
+		<!-- Logo and Title -->
 		<div class="flex items-center space-x-2">
-			<img 
-				src="https://i5.walmartimages.com/asr/12314833-2e54-4739-94a2-7db45b63109d.16ff07e3c111df9be4158853c2e505ef.jpeg?odnHeight=2000&odnWidth=2000&odnBg=FFFFFF" 
-				alt="Lime" 
-				class="h-8 w-8 rounded-full"
-			/>
+			<img src="https://i5.walmartimages.com/asr/12314833-2e54-4739-94a2-7db45b63109d.16ff07e3c111df9be4158853c2e505ef.jpeg?odnHeight=117&odnWidth=117&odnBg=FFFFFF" alt="Logo" class="h-8 w-8" />
 			<a href="/" class="text-lg font-bold">Actively Accountable</a>
 		</div>
 
